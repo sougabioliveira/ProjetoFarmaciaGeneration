@@ -20,7 +20,7 @@ import br.com.farmacia.farmaciageneration.model.Categoria;
 import br.com.farmacia.farmaciageneration.repository.CategoriaRepository;
 
 @RestController
-@RequestMapping("/Categoria")
+@RequestMapping("/categorias")
 @CrossOrigin("*")
 public class CategoriaController {
 
